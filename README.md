@@ -30,7 +30,7 @@ VideoFlow анализирует загруженное видео и приме
 
 1. Склонируйте репозиторий:
 bash
-git clone https://github.com/outcast6969/videoflow.git
+https://github.com/outcast6969/VideoFlow---AI-Video-Editor.git
 
 
 2. Перейдите в директорию проекта:
